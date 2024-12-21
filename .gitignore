@@ -1,0 +1,18 @@
+# Ignore the database configuration file
+/classes/Database.php
+
+# Ignore the compiled files
+*.log
+*.tmp
+
+# Ignore the XAMPP or local server files
+/xampp/
+/htdocs/
+
+# Ignore IDE specific files
+/.idea/
+/.vscode/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
